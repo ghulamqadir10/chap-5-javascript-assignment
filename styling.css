@@ -1,0 +1,20 @@
+body{
+    background-image: url(./abstract-organic-pattern-design-background_1048-19286.avif);
+    width: 100%;
+    background-size: cover;
+    
+
+}
+
+.percentage{
+    text-decoration: underline;
+    
+}
+.percentage:hover{
+width: fit-content;
+color: coral;
+background-color: black;
+transition: 1s;
+cursor: pointer;
+margin: 20px;
+}
